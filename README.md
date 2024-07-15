@@ -1,3 +1,3 @@
 # Darts
 
-The classic darts game. Make using pygame and numpy.
+The classic darts game. Made using pygame and numpy.
